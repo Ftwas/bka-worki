@@ -7,7 +7,7 @@ on:
 
 jobs:
   deploy-nginx:
-    runs-on: self-hosted
+    runs-on: bka-labletest
 
     steps:
     - name: Checkout repo
